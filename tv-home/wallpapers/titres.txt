@@ -1,0 +1,7 @@
+# fichier|titre affiché — les photos sans ligne ici prennent leur nom de fichier comme titre
+01-alpes-aube.jpg|Alpes à l'aube
+02-foret-brume.jpg|Forêt dans la brume
+03-lac-couchant.jpg|Lac au couchant
+04-dunes-crepuscule.jpg|Dunes au crépuscule
+05-aurore-boreale.jpg|Aurore boréale
+06-ocean-horizon.jpg|Océan à l'horizon
